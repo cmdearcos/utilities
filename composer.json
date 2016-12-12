@@ -1,6 +1,6 @@
 {
     "name": "cmdearcos/utilities",
-    "description": "Some",
+    "description": "Some utilities for PHP juniors developers",
     "type": "library",
     "require": {
         "monolog/monolog": "^1.22",
