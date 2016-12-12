@@ -1,0 +1,16 @@
+{
+    "name": "cmdearcos/utilities",
+    "description": "Some",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^1.22",
+        "phpunit/phpunit": "^5.7"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Carlos Martin",
+            "email": "cmdearcos@gmail.com"
+        }
+    ]
+}
